@@ -1,0 +1,168 @@
+[{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2604"
+  },
+  "ID_Paquete": 1001,
+  "descripcion": "Este paquete turístico cuenta con automóvil, el cual cuenta con asiento de bebes, herramientas de Sanitización por Covid-19 y aire acondicionado en el vehículo. Espectacular para viajar por el pais con la familia.",
+  "paisDestino": "Argentina",
+  "ciudadDestino": "Buenos Aires",
+  "hospedaje": "Hotel Mercure Santiago Centro",
+  "restaurante": "Krossbar",
+  "automovil": "Mazda CX 5",
+  "cantPersonas": 1,
+  "valorNoche": 50000,
+  "cliente": [
+    {
+    "rut": "18123456",
+    "nombre": "Juan Perez",
+    "telefono": 32124322,
+    "email": "juanperez@gmail.com",
+    "fechaNac": {
+      "$date": "1990-01-22T00:00:00Z"
+    },
+    "pago":[
+      {
+        "ID_Boleta": 345,
+        "valor": 500000
+      },
+      {
+        "ID_Boleta": 123,
+        "valor": 200000
+      }
+    ]
+  }]
+},{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2605"
+  },
+  "ID_Paquete": 1002,
+  "descripcion": "Este paquete turístico cuenta con automóvil, el cual cuenta con asiento de bebes, herramientas de Sanitización por Covid-19 y aire acondicionado en el vehículo.Espectacular para viajar por el pais con la familia.",
+  "paisDestino": "Japon",
+  "ciudadDestino": "Akihabara",
+  "hospedaje": "No Aplica",
+  "restaurante": "No Aplica",
+  "automovil": "Ssangyong Korando",
+  "cantPersonas": 3,
+  "valorNoche": 150000,
+  "cliente":[
+    {
+      "rut": "17348561",
+      "nombre": "Pedro Pedrero",
+      "telefono": 946573535,
+      "email": "pedropedre@gmail.com",
+      "fechaNac": {
+        "$date": "1988-03-14T00:00:00Z"
+      },
+      "pago":[
+        {
+          "ID_Boleta": 234,
+          "valor": 450000
+        }
+      ]
+    }]
+},{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2606"
+  },
+  "ID_Paquete": 1003,
+  "descripcion": "Este paquete turístico cuenta con un vehículo espectacular y capacidad para dos personas, con Wi-Fi en el vehículo. Gran opción para disfrutar con un amigo o en pareja paseando por el país.",
+  "paisDestino": "Japon",
+  "ciudadDestino": "Takayama",
+  "hospedaje": "No Aplica",
+  "restaurante": "No Aplica",
+  "automovil": "Lamborghini Urus",
+  "cantPersonas": 2,
+  "valorNoche": 100000,
+  "cliente": [
+    {
+      "rut": "20333132",
+      "nombre": "Elvis Tek",
+      "telefono": 945787378,
+      "email": "elvistek@gmail.com",
+      "fechaNac": {
+        "$date": "2001-02-28T00:00:00Z"
+      },
+      "pago":[
+        {
+          "ID_Boleta": 999,
+          "valor": 700000
+        }
+      ]
+    }]
+},{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2607"
+  },
+  "ID_Paquete": 1004,
+  "descripcion": "Este paquete turístico cuenta hospedaje y acceso a restaurante, además de acceso a Wi-Fi, y Sanitización por Covid-19 en todas las locaciones. Ideal para disfrutar y pasear por la ciudad conociendo gente.",
+  "paisDestino": "Egipto",
+  "ciudadDestino": "Giza",
+  "hospedaje": "Hotel Santibañez de la Mancha",
+  "restaurante": "Zanzíbar",
+  "automovil": "No Aplica",
+  "cantPersonas": 1,
+  "valorNoche": 50000,
+  "cliente":[
+
+  ]
+},{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2608"
+  },
+  "ID_Paquete": 1005,
+  "descripcion": "Este paquete turístico cuenta hospedaje y acceso a restaurante, además de acceso a Wi-Fi y Sanitización en las locaciones.Espectacular para disfrutar de la ciudad con la familia.",
+  "paisDestino": "Reino Unido",
+  "ciudadDestino": "Londres",
+  "hospedaje": "Hotel Panamericano",
+  "restaurante": "Gran Refugio",
+  "automovil": "No Aplica",
+  "cantPersonas": 4,
+  "valorNoche": 200000,
+  "cliente":[
+    {
+      "rut": "8576822",
+      "nombre": "Gonzalo Gonzalez",
+      "telefono": 3254709,
+      "email": "gonzgonz@gmail.com",
+      "fechaNac": {
+        "$date": "1960-05-28T00:00:00Z"
+      },
+      "pago":[
+        {
+          "ID_Boleta": 876,
+          "valor": 1200000
+        }
+      ]
+    },
+    {
+      "rut": "20333132",
+      "nombre": "Elvis Tek",
+      "telefono": 945787378,
+      "email": "elvistek@gmail.com",
+      "fechaNac": {
+        "$date": "2001-02-28T00:00:00Z"
+      },
+      "pago":[
+        {
+          "ID_Boleta": 567,
+          "valor": 1000000
+        }
+      ]
+    }]
+},{
+  "_id": {
+    "$oid": "61ac395432a3959786eb2609"
+  },
+  "ID_Paquete": 1024,
+  "descripcion": "Este paquete turístico para dos personas no cuenta con nada, pero Francia es bonito.",
+  "paisDestino": "Francia",
+  "ciudadDestino": "Paris",
+  "hospedaje": "No Aplica",
+  "restaurante": "No Aplica",
+  "automovil": "No Aplica",
+  "cantPersonas": 2,
+  "valorNoche": 100000,
+  "cliente":[
+
+  ]
+}]
